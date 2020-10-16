@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.8607cf6c.chunk.css",
-    "main.js": "/static/js/main.09102ef8.chunk.js",
-    "main.js.map": "/static/js/main.09102ef8.chunk.js.map",
+    "main.css": "/static/css/main.0574daed.chunk.css",
+    "main.js": "/static/js/main.d7b16ded.chunk.js",
+    "main.js.map": "/static/js/main.d7b16ded.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6a4b5994.js",
     "runtime-main.js.map": "/static/js/runtime-main.6a4b5994.js.map",
     "static/css/2.7df321cc.chunk.css": "/static/css/2.7df321cc.chunk.css",
-    "static/js/2.3ba8ad07.chunk.js": "/static/js/2.3ba8ad07.chunk.js",
-    "static/js/2.3ba8ad07.chunk.js.map": "/static/js/2.3ba8ad07.chunk.js.map",
+    "static/js/2.1d75aeaf.chunk.js": "/static/js/2.1d75aeaf.chunk.js",
+    "static/js/2.1d75aeaf.chunk.js.map": "/static/js/2.1d75aeaf.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1e42e034370afeac9cb34d430c761771.js": "/precache-manifest.1e42e034370afeac9cb34d430c761771.js",
+    "precache-manifest.f3888ceb2904b7bb2f0234cd3b78d016.js": "/precache-manifest.f3888ceb2904b7bb2f0234cd3b78d016.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.7df321cc.chunk.css.map": "/static/css/2.7df321cc.chunk.css.map",
-    "static/css/main.8607cf6c.chunk.css.map": "/static/css/main.8607cf6c.chunk.css.map",
-    "static/js/2.3ba8ad07.chunk.js.LICENSE.txt": "/static/js/2.3ba8ad07.chunk.js.LICENSE.txt",
+    "static/css/main.0574daed.chunk.css.map": "/static/css/main.0574daed.chunk.css.map",
+    "static/js/2.1d75aeaf.chunk.js.LICENSE.txt": "/static/js/2.1d75aeaf.chunk.js.LICENSE.txt",
     "static/media/Drexel University Chapter_1Color.png": "/static/media/Drexel University Chapter_1Color.b8b91e9c.png",
     "static/media/GBM-Picture.JPG": "/static/media/GBM-Picture.fd72a843.JPG",
     "static/media/info-sections.css": "/static/media/Roboto-Black.5ebb24ee.ttf",
@@ -49,8 +49,8 @@
   "entrypoints": [
     "static/js/runtime-main.6a4b5994.js",
     "static/css/2.7df321cc.chunk.css",
-    "static/js/2.3ba8ad07.chunk.js",
-    "static/css/main.8607cf6c.chunk.css",
-    "static/js/main.09102ef8.chunk.js"
+    "static/js/2.1d75aeaf.chunk.js",
+    "static/css/main.0574daed.chunk.css",
+    "static/js/main.d7b16ded.chunk.js"
   ]
 }
